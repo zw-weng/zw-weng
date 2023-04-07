@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/zw_weng/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="">
+  <a href="https://discordapp.com/users/Weng#9011">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   </div>
