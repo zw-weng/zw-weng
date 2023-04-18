@@ -24,8 +24,9 @@
 **zw-weng/zw-weng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### :student: About Me :
-- 🔭 I’m currently studying Bachelor of Computer Science in Data Engineering at Universiti Teknologi Malaysia.
-- 🌱 I’m currently learning on software engineering via work-based learning.
+- 🔭 I’m currently studying Bachelor of Computer Science in Data Engineering at [Universiti Teknologi Malaysia](https://www.utm.my/).
+- 🏫 Currently Year 1 Data Engineering student.
+- 🌱 Presently learning Software Engineering (WBL).
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/neo-zheng-weng-b81b90254/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-lightblue?style=flat&logo=Gmail&logoColor=black=mailto:neoweng@graduate.utm.my)](neoweng@graduate.utm.my)
 - 💬 The quote of the day: Do you see how infinite you are?
 
@@ -44,6 +45,10 @@
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="60" /></a>
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60" /></a>
 </div>
+
+
+### 🏆 Licences & Certifications :
+🎖️ [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a2a775a3-1252-4577-9b24-fa801c74438b)
 
 
 ### :fire: My Stats :
