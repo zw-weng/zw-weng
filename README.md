@@ -39,8 +39,10 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="60" /></a>
-  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" /></a>
-  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="60" /></a>
+  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="55" /></a>
+  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="60" /></a>
+  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60" /></a>
 </div>
 
 
