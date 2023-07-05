@@ -54,5 +54,7 @@
 
 
 ### :fire: My Stats :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zw-weng&show_icons=true&locale=en&layout=compact" alt="zw-weng" /></p>
+
 [![Neo Zheng Weng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zw-weng&show_icons=true#gh-dark-mode-only)](https://github.com/zw-weng/github-readme-stats#gh-dark-mode-only)
 [![Neo Zheng Weng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zw-weng&show_icons=true&theme=onedark#gh-light-mode-only)](https://github.com/zw-weng/github-readme-stats#gh-light-mode-only)
