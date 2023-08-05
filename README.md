@@ -19,25 +19,25 @@
     <img align="center" src="https://cdn.dribbble.com/users/511295/screenshots/2629099/media/251749791880e765c956d773d127f93c.gif" height="100" /></a> 
 </div>
 
-### :man_technologist: About Me:
-- 🔭 I’m currently studying Bachelor of Computer Science in Data Engineering at [Universiti Teknologi Malaysia](https://www.utm.my/).
-- 🏫 Currently Year 1 Data Engineering student.
-- 🌱 Presently learning Software Engineering (WBL).
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/neo-zheng-weng-b81b90254/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-lightblue?style=flat&logo=Gmail&logoColor=black=mailto:neoweng@graduate.utm.my)](neoweng@graduate.utm.my)
-- 💬 The quote of the day: Do you see how infinite you are?
+### :man_technologist: About Me :
+- 🔭 I’m currently studying at [Universiti Teknologi Malaysia](https://www.utm.my/).
+- 🏫 I'm currently 1st year Data Engineering student.
+- 🌱 I'm presently learning website development.
+- ⚡ Fun fact: I'm an introvert but active in any events.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/neo-zheng-weng-b81b90254/)
 
-### 🗃️ Projects:
+
+### 🗃️ Projects :
 <a href="https://zw-weng.github.io/project1/P1_zw-weng.html"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
 <a href="https://zw-weng.github.io/project2/index.html"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
 <a href=""><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
-
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+ ...-->
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -47,9 +47,10 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="50" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="60" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60" />
-  <img align=""/>
+  <img align="center" src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png" height="45"/>
+  <img align="center" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" height="55"/>
 </div>
-<br>
+
 
 ### 🏆 Licences & Certifications :
 🎖️ [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a2a775a3-1252-4577-9b24-fa801c74438b)
