@@ -33,6 +33,7 @@
 <a href="https://github.com/zw-weng/Dijkstras-Shortest-Path-Algorithm/tree/main"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
 - 🏨 [Student Accommodation System in KTDI](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/stakeholder#8-documentation)
 - 🚌 [Bus Reservation System in C++](https://github.com/wei2030/wei2030)
+- 💻 [YouTube clone in HTML & CSS](https://github.com/zw-weng/youtube-clone)
   
 &nbsp;
 ### :hammer_and_wrench: Languages and Tools :
