@@ -32,14 +32,13 @@
 <a href="https://zw-weng.github.io/project2/index.html"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
 <a href="https://github.com/zw-weng/Dijkstras-Shortest-Path-Algorithm/tree/main"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
 - 🏨 [Student Accommodation System in KTDI](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/stakeholder#8-documentation)
-- 🚌 [Bus Reservation System in C++](https://github.com/wei2030/wei2030)
-- 💻 [YouTube clone in HTML & CSS](https://github.com/zw-weng/youtube-clone)
+- 💻 [YouTube clone](https://github.com/zw-weng/youtube-clone)
   
 &nbsp;
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img align="center" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="60" />
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="55" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/242px-R_logo.svg.png" height="53" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="50" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="60" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="60" />
