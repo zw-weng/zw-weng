@@ -28,11 +28,9 @@
 
 &nbsp;
 ### 🗃️ Projects :
-<a href="https://zw-weng.github.io/project1/P1_zw-weng.html"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
-<a href="https://zw-weng.github.io/project2/index.html"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
-<a href="https://github.com/zw-weng/Dijkstras-Shortest-Path-Algorithm/tree/main"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
+- 🔖 [Dijkstras Shortest Path Algorithm](https://github.com/zw-weng/Dijkstras-Shortest-Path-Algorithm/tree/main)
 - 🏨 [Student Accommodation System in KTDI](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/stakeholder#8-documentation)
-- 💻 [YouTube clone](https://github.com/zw-weng/youtube-clone)
+- 💻 [Student Portfolio with Bootstrap](https://zw-weng.github.io/project2/index.html)
   
 &nbsp;
 ### :hammer_and_wrench: Languages and Tools :
