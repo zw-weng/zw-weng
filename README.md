@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 - 🔭 I’m currently studying at [Universiti Teknologi Malaysia](https://www.utm.my/).
 - 🏫 I'm currently 2nd year Data Engineering student.
-- 🌱 I'm presently learning system development.
+- 🌱 I'm presently learning React.
 - ⚡ Fun fact: An introvert who talks loud.
 - 📫 Feel free to drop me a message!
 
