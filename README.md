@@ -22,15 +22,14 @@
 ### :man_technologist: About Me :
 - 🔭 I’m currently studying at [Universiti Teknologi Malaysia](https://www.utm.my/).
 - 🏫 I'm currently 2nd year Data Engineering student.
-- 🌱 I'm presently learning React.
+- 🌱 I'm presently learning MERN stack.
 - ⚡ Fun fact: An introvert who talks loud.
 - 📫 Feel free to drop me a message!
 
 &nbsp;
 ### 🗃️ Projects :
-- 🔖 [AK Maju Resources Management System](https://github.com/zw-weng/xcode-akmms/tree/main)
-- 🏨 [Student Accommodation System in KTDI](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/stakeholder#8-documentation)
-- 💻 [Student Portfolio with Bootstrap](https://zw-weng.github.io/project2/index.html)
+- [AK Maju Resources Management System](https://github.com/zw-weng/xcode-akmms/tree/main)
+- [KTDI's Student Accommodation System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/stakeholder#8-documentation)
   
 &nbsp;
 ### :hammer_and_wrench: Languages and Tools :
