@@ -13,6 +13,9 @@
 <a href="https://kaggle.com/zw_weng" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
+<a href="https://www.hackerrank.com/profile/zw_weng" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
 </p>
 
 ## 🛠 Tech Stack  
