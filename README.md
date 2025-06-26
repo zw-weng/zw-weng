@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neo Zheng Weng</h1>
-<h3 align="center">A Passionate Data & AI Enthusiast</h3>
+<h3 align="center">A Passionate Data & Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Engineering & Cloud Computing**
 - 📫 Reach me at [neozhengweng@gmail.com](mailto:neozhengweng@gmail.com)
@@ -28,20 +28,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Databases & Cloud  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zw-weng&show_icons=true&count_private=true&theme=default" alt="zw-weng GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zw-weng&layout=compact&count_private=true&theme=default" alt="zw-weng Top Languages" />
-</p>
+## 📊 GitHub Stats
+![Weng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zw-weng&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zw-weng&layout=compact&langs_count=8)
